@@ -43,7 +43,7 @@ Insight: Naturally, shows that arrive to Netflix usually spend some time on othe
 
 ### Distribution of Show by Season
 
-<img width="1117" alt="Screen Shot 2021-02-08 at 12 59 37 PM" src="https://user-images.githubusercontent.com/51058259/107274372-81384600-6a0d-11eb-86d6-b3d09d12d2bd.png">
+<img width="1109" alt="Screen Shot 2021-02-08 at 1 12 31 PM" src="https://user-images.githubusercontent.com/51058259/107275668-4e8f4d00-6a0f-11eb-87f1-4523d12a9e43.png">
 
 Insight: Confirms my worst nightmare. There are too many good shows that don't last longer than a single season. 
 
