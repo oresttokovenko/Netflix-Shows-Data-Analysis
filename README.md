@@ -1,6 +1,21 @@
 # Netflix-Shows-Data-Analysis
+### Synopsis
 
 In this analysis, I will explore the distribution and information pertaining to Netflix TV shows and Movies. This stems out of personal interest of mine, which began when i asked myself how many shows Netflix only produces a single season for. I found this dataset and began exploring. The answer to that question is many. Many Netflix shows are only produced for a single season
+
+### Tech
+
+- Python >= 3.6
+- Jupyter Lab/Notebook
+
+### Packages Required
+
+- numpy
+- pandas
+- plotly
+- matplotlib
+- seaborn
+- pandas profiling
 
 ### Percentage of TV shows to Movies in the Netflix viewing library
 
@@ -24,7 +39,7 @@ Insight: The largest two contenders after the US seem to be India and the U.K. E
 
 <img width="1135" alt="Screen Shot 2021-02-08 at 12 56 17 PM" src="https://user-images.githubusercontent.com/51058259/107273985-0cfda280-6a0d-11eb-950b-a01afb7ccaab.png">
 
-Insight:
+Insight: Naturally, shows that arrive to Netflix usually spend some time on other VOD platforms beforehand. 
 
 ### Distribution of Show by Season
 
